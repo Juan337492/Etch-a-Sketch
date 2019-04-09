@@ -1,0 +1,54 @@
+#title{
+    position: relative;
+    display: block;
+    width: fit-content;    
+    width: -moz-fit-content;
+    margin: 0px auto;
+    top: 5px;    
+}
+
+
+
+#btn_new{
+    display: block;
+   
+    margin: 3% auto 0;
+}
+
+
+.gridItems{
+    vertical-align: top;
+    
+    background: rgb(158, 158, 158);
+    margin: 0px 0px 0px 0px;
+    border: 0.5px solid black
+}
+
+.container{
+    top: 10px;
+    display:grid;
+    position: relative;
+    width: 480px;
+    height: 480px;
+    padding: 1px;
+    vertical-align: top;
+    margin: 0 auto;
+  
+    
+}
+.hover{
+    
+    vertical-align: top;
+    position: relative;
+    
+  
+    margin: 0px 0px 0px 0px;
+    border: 0.5px solid black;
+}
+body{
+    width: fit-content;
+    
+    position: relative;
+    
+    margin: auto;
+}
